@@ -30,8 +30,10 @@ At some point, we may wish to update the app. The app is currently available on 
 
 We may update our Terms of Use from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Use on this page.
 
-These Terms of Use are effective as of 2021-10-30
-
 **Contact Us**
 
-If you have any questions or suggestions about our Terms of Use, do not hesitate to contact us at support@nimblers.app.
+If you have any questions or suggestions about our Terms of Use, do not hesitate to contact us at [support@nimblers.app](mailto:support@nimblers.app).
+
+These Terms of Use are effective as of 2021-10-30
+
+ 
