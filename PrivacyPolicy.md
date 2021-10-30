@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Nimblers Studio built the Nimblers app as a Free app. This SERVICE is provided by Nimblers Studio at no cost and is intended for use as is.
+Nimblers Studio built the Nimblers app as a Freemium app. This SERVICE is provided by Nimblers Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -17,6 +17,7 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
@@ -58,7 +59,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-10-04
+This policy is effective as of 2021-10-30
 
 **Contact Us**
 
